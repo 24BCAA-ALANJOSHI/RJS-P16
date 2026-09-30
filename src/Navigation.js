@@ -1,5 +1,5 @@
 import React from"react";
-import {Link} from"React - Router - dom";
+import { Link } from "react-router-dom";
 function Navigation(){
     return(
         <nav>
